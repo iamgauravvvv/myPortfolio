@@ -4,3 +4,15 @@ function onMenuToggle(e) {
     navlinks.classList.toggle("left-[0%]");
   }
   
+  AOS.init();
+
+  const navDialogue = document.getElementById('nav_dialogue');
+
+  function handleMenu(){
+   navDialogue.classList.toggle('hidden');
+  }
+
+
+
+
+
