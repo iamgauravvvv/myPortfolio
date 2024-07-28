@@ -1,6 +1,9 @@
 html {
   scroll-behavior: smooth;
 }
+body{
+  font-family: poppins;
+}
 
 .btn {
     font-size: 17px;
