@@ -6,10 +6,10 @@ function onMenuToggle(e) {
   
   AOS.init();
 
-  const navDialogue = document.getElementById('nav_dialogue');
+  const navDialog = document.getElementById('nav_dialog');
 
   function handleMenu(){
-   navDialogue.classList.toggle('hidden');
+   navDialog.classList.toggle('hidden');
   }
 
 
