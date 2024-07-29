@@ -3,6 +3,7 @@ html {
 }
 body{
   font-family: poppins;
+  touch-action: pan-y;
 }
 
 .btn {
