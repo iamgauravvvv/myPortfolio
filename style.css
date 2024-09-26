@@ -1,6 +1,7 @@
 html {
   scroll-behavior: smooth;
   touch-action: pan-y;
+  overflow-x: hidden;
 }
 body{
   font-family: poppins;
